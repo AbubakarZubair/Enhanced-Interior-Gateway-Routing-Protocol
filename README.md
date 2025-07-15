@@ -18,6 +18,7 @@ The network consists of 4 routers (Router1, Router2, Router3, Router4) interconn
 ```
 ```
 ![Alt text](image1.jpg)
+![Network Topology](Enhanced-Interior-Gateway-Routing-Protocol/image1.jpg)
 ```
 ## IP Configuration
 
