@@ -7,7 +7,7 @@ This repository contains a complete implementation of Enhanced Interior Gateway 
 The network consists of 4 routers (Router1, Router2, Router3, Router4) interconnected in a mesh topology with 6 PCs distributed across different subnets.
 
 ```
-![Alt text](image1.png)
+![Alt text](image1.jpg)
                     Router1 (10.0.0.98)
                    /                    \
                   /                      \
@@ -16,7 +16,9 @@ The network consists of 4 routers (Router1, Router2, Router3, Router4) interconn
                  |                              |
         Router3 (10.0.0.109)----------Router2 (10.0.0.106)
 ```
-
+```
+![Alt text](image1.jpg)
+```
 ## IP Configuration
 
 ### Router Interfaces
